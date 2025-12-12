@@ -27,7 +27,7 @@ const About = () => {
             </p>
             <div className="about-stats">
               <div className="stat-item">
-                <div className="stat-number">8.1</div>
+                <div className="stat-number">7.28</div>
                 <div className="stat-label">CGPA</div>
               </div>
               <div className="stat-item">
