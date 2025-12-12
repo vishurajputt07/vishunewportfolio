@@ -34,7 +34,7 @@ const Projects = () => {
       technologies: ['Python', 'Streamlit', 'Scikit-Learn', 'Pandas'],
       image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1765535373/Screenshot_2025-02-07_015319_vn03fu.png',
       github: 'https://github.com/vishurajputt07/Forest-Fire-Prediction-App',
-      demo: 'https://example.com',
+      demo: 'https://forest-fire-prediction-app-vishu.streamlit.app/',
       period: 'September 2024 - December 2024',
     },
     {
