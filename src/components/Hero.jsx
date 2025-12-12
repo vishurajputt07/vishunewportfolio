@@ -10,13 +10,11 @@ const Hero = () => {
     }
   }
 
-  const handleResumeDownload = () => {
-    // You can replace this with your actual resume file path
-    const link = document.createElement('a')
-    link.href = 'https://drive.google.com/file/d/1m3b2LAGjy6iVhaCc1cfT-LNA9W3o5Yat/view?usp=drive_link' // Update this path to your resume file
-    link.download = 'Vishu_Rajput_Resume.pdf'
-    link.click()
-  }
+ const handleResumeDownload = () => {
+  const resumeUrl = 'https://drive.google.com/file/d/1m3b2LAGjy6iVhaCc1cfT-LNA9W3o5Yat/view?usp=drive_link';
+  window.open(resumeUrl, '_blank');
+};
+
 
   return (
     <section id="hero" className="hero">
