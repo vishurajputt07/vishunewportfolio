@@ -17,19 +17,19 @@ const Experience = () => {
         'Collaborated with the team to refine UI/UX designs, focusing on enhancing user retention by improving navigation flow and optimizing layouts.',
       ],
     },
-    {
-      id: 2,
-      company: 'Bharat Intern',
-      position: 'Web Developer Intern',
-      period: 'August 2023 - September 2023',
-      location: 'Virtual',
-      type: 'Internship',
-      achievements: [
-        'Designed innovative E-commerce Product Page using advanced HTML and CSS techniques; incorporated interactive features leading to heightened user interaction levels by 15%, positively impacting overall customer experience.',
-        'Boosted page performance, improving speed by 25% and reducing bounce rates by 10%.',
-        'Optimized back-end data retrieval to improve back-end efficiency, reducing server requests and enhancing overall site responsiveness by 20%.',
-      ],
-    },
+    // {
+    //   id: 2,
+    //   company: 'Bharat Intern',
+    //   position: 'Web Developer Intern',
+    //   period: 'August 2023 - September 2023',
+    //   location: 'Virtual',
+    //   type: 'Internship',
+    //   achievements: [
+    //     'Designed innovative E-commerce Product Page using advanced HTML and CSS techniques; incorporated interactive features leading to heightened user interaction levels by 15%, positively impacting overall customer experience.',
+    //     'Boosted page performance, improving speed by 25% and reducing bounce rates by 10%.',
+    //     'Optimized back-end data retrieval to improve back-end efficiency, reducing server requests and enhancing overall site responsiveness by 20%.',
+    //   ],
+    // },
   ]
 
   return (
