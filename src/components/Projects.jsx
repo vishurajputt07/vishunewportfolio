@@ -5,18 +5,30 @@ import './Projects.css'
 const Projects = () => {
   const projects = [
     {
-      id: 1,
+  id: 1,
+  title: 'Edusity – University Landing Page',
+  description:
+    'A modern and responsive university landing page built using React to showcase academic programs, campus highlights, and admission information with a clean and professional UI. The project emphasizes strong UI/UX principles, including clear content hierarchy and smooth section-based navigation, ensuring an intuitive and accessible user experience across all devices. Deployed on Vercel, it delivers fast load times, cross-browser compatibility, and reliable performance.',
+  technologies: ['React.js', 'CSS', 'JavaScript'],
+  image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1765535373/Screenshot_2025-12-12_140256_f9ckb7.png',
+  github: 'https://github.com/vishurajputt07/EZ-work-Assignment',
+  demo: 'https://vfilms-landing.netlify.app/',
+  period: 'October 2025 - November 2025',
+    },
+
+    {
+      id: 2,
       title: 'V- Films Landing Page',
       description:
         'A modern and responsive landing page designed for V-Films, showcasing their brand and services with a clean layout, clear call-to-action sections, and smooth user navigation. The page highlights essential information in a visually appealing format and is fully optimized for all devices.',
       technologies: ['React.js', 'CSS', 'JavaScript'],
-      image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1765535373/Screenshot_2025-12-12_140256_f9ckb7.png',
-      github: 'https://github.com/vishurajputt07/EZ-work-Assignment',
-      demo: 'https://vfilms-landing.netlify.app/',
-      period: 'October 2025 - November 2025',
+      image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1768740125/Screenshot_2026-01-18_181005_p51fym.png',
+      github: 'https://github.com/vishurajputt07/edusity1',
+      demo: 'https://edusity1-one.vercel.app/',
+      period: 'December 2025',
     },
     {
-      id: 2,
+      id: 3,
       title: 'SkillSprint - E-Learning Platform',
       description:
         'SkillSprint E‑Learning is a responsive online learning platform built with React, featuring engaging UI and structured course presentation. It enables users to explore and access educational content through an intuitive interface designed for seamless learning experiences',
@@ -27,7 +39,7 @@ const Projects = () => {
       period: 'September 2025 - October 2025',
     },
     {
-      id: 3,
+      id: 4,
       title: 'Forest Fire Prediction',
       description:
         'Built a machine learning-powered web application to predict forest fire occurrences, achieving 95% prediction accuracy. Programmed an interactive and intuitive Streamlit UI for real-time fire risk predictions. Accelerated data processing algorithms, reducing computation time by 30%.',
@@ -38,7 +50,7 @@ const Projects = () => {
       period: 'September 2024 - December 2024',
     },
     {
-      id: 4,
+      id: 5,
       title: 'Ready Go',
       description:
         'Spearheaded front-end development for a responsive community-driven platform, enhancing accessibility and driving user engagement by 25%. Integrated custom animations using JavaScript, resulting in a 40% increase in user engagement metrics. Collaborated with back-end team, enhancing overall platform performance by 15%.',
