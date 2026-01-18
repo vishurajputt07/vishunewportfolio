@@ -10,10 +10,10 @@ const Projects = () => {
   description:
     'A modern and responsive university landing page built using React to showcase academic programs, campus highlights, and admission information with a clean and professional UI. The project emphasizes strong UI/UX principles, including clear content hierarchy and smooth section-based navigation, ensuring an intuitive and accessible user experience across all devices. Deployed on Vercel, it delivers fast load times, cross-browser compatibility, and reliable performance.',
   technologies: ['React.js', 'CSS', 'JavaScript'],
-  image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1765535373/Screenshot_2025-12-12_140256_f9ckb7.png',
-  github: 'https://github.com/vishurajputt07/EZ-work-Assignment',
-  demo: 'https://vfilms-landing.netlify.app/',
-  period: 'October 2025 - November 2025',
+  image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1768740125/Screenshot_2026-01-18_181005_p51fym.png',
+  github: 'https://github.com/vishurajputt07/edusity1',
+  demo: 'https://edusity1-one.vercel.app/',
+  period: 'December 2025',
     },
 
     {
@@ -22,10 +22,10 @@ const Projects = () => {
       description:
         'A modern and responsive landing page designed for V-Films, showcasing their brand and services with a clean layout, clear call-to-action sections, and smooth user navigation. The page highlights essential information in a visually appealing format and is fully optimized for all devices.',
       technologies: ['React.js', 'CSS', 'JavaScript'],
-      image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1768740125/Screenshot_2026-01-18_181005_p51fym.png',
-      github: 'https://github.com/vishurajputt07/edusity1',
-      demo: 'https://edusity1-one.vercel.app/',
-      period: 'December 2025',
+      image: 'https://res.cloudinary.com/dqsphdxol/image/upload/v1765535373/Screenshot_2025-12-12_140256_f9ckb7.png',
+      github: 'https://github.com/vishurajputt07/EZ-work-Assignment',
+      demo: 'https://vfilms-landing.netlify.app/',
+      period: 'October 2025 - November 2025',
     },
     {
       id: 3,
