@@ -14,7 +14,7 @@ const About = () => {
           <div className="about-text">
             <p className="about-description">
               I'm a Computer Science Engineering student at COER University, Roorkee, 
-              currently pursuing my B.Tech degree with a CGPA of 7.28. I'm a passionate 
+              currently pursuing my B.Tech degree with a CGPA of 7.38. I'm a passionate 
               Front End Developer with experience in building responsive web applications 
               and interactive user interfaces.
             </p>
@@ -27,7 +27,7 @@ const About = () => {
             </p>
             <div className="about-stats">
               <div className="stat-item">
-                <div className="stat-number">7.39</div>
+                <div className="stat-number">7.38</div>
                 <div className="stat-label">CGPA</div>
               </div>
               <div className="stat-item">
